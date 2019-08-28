@@ -1,3 +1,0 @@
-/search/odin/imer/liuyujia/Lightrnn_forward/build/CMakeFiles/rebuild_cache.dir
-/search/odin/imer/liuyujia/Lightrnn_forward/build/CMakeFiles/edit_cache.dir
-/search/odin/imer/liuyujia/Lightrnn_forward/build/CMakeFiles/lightrnn_test.dir
