@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=gnu++0x  -std=c++11 -O3  -rdynamic CMakeFiles/lightrnn_test.dir/lightrnn_model.cpp.o CMakeFiles/lightrnn_test.dir/predict_model.cpp.o CMakeFiles/lightrnn_test.dir/util.cpp.o CMakeFiles/lightrnn_test.dir/main.cpp.o  -o lightrnn_test 
